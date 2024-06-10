@@ -33,7 +33,7 @@ module.exports = defineConfig({
         baseURL: 'https://www.kad-staging-com.net/',
 
         // Populates context with given storage state.
-        storageState: 'state.json',
+        //storageState: 'state.json',
 
         // Name of the browser that runs tests. For example `chromium`, `firefox`, `webkit`.
         browserName: 'chromium',
