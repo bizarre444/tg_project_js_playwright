@@ -1,7 +1,6 @@
 {
     "name": "tg_project_js_playwright",
     "version": "1.0.0",
-    "description": "",
     "main": "index.js",
     "scripts": {
         "test": "jest",
@@ -30,5 +29,9 @@
     },
     "dependencies": {
         "jest-playwright": "^0.0.1"
-    }
+    },
+    "directories": {
+        "test": "tests"
+    },
+    "description": ""
 }
